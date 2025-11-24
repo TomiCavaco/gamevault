@@ -2,7 +2,7 @@
 
 App Flutter con Material 3 que permite gestionar tu biblioteca personal de juegos, favoritos y categorías.
 
-## Estructura del proyecto (hasta ahora)
+## Estructura del proyecto 
 lib/
 
 ├── main.dart   
@@ -19,5 +19,5 @@ lib/
 
 └── categories_list.dart   Lista de categorías
 
-
+## Ejecuta el proyecto
 flutter run
